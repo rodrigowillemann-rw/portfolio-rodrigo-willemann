@@ -48,31 +48,44 @@ Repositorio de experimentacao para provas de conceito, requisitos e prototipos l
 - Tecnologias previstas: Python, OCR, LLMs, RAG, APIs e processamento de documentos
 - Valor demonstrado: capacidade de transformar desafios emergentes em hipoteses, experimentos e arquitetura de MVP
 
-## Projetos Recomendados para Evolucao
+## Novos Projetos Criados no Hub
+
+Os projetos abaixo foram estruturados como blueprints completos dentro deste repositorio publico. Cada um pode evoluir para um repositorio independente com o mesmo nome sugerido.
 
 ### Value Tech - Valorizacao de Tecnologias
 
-Projeto para avaliacao e valoracao de tecnologias e negocios inovadores, com foco em potencial economico, maturidade tecnologica, impacto e escalabilidade.
+- Projeto: [projects/value-tech-valuation](projects/value-tech-valuation)
+- Notebook: [valuation-demo.ipynb](projects/value-tech-valuation/notebooks/valuation-demo.ipynb)
+- Dados: [tecnologias_exemplo.csv](projects/value-tech-valuation/data/tecnologias_exemplo.csv)
+- Repositorio independente sugerido: `value-tech-valuation`
 
-Repositorio sugerido: `value-tech-valuation`
+### Project Dashboard Analytics
 
-### Dashboard de Analise de Projetos
+- Projeto: [projects/project-dashboard-analytics](projects/project-dashboard-analytics)
+- Notebook: [project-kpi-demo.ipynb](projects/project-dashboard-analytics/notebooks/project-kpi-demo.ipynb)
+- Dados: [projetos_exemplo.csv](projects/project-dashboard-analytics/data/projetos_exemplo.csv)
+- Repositorio independente sugerido: `project-dashboard-analytics`
 
-Dashboard para acompanhamento de indicadores de projetos, cronograma, riscos, entregas, KPIs e portfolio de iniciativas.
+### Document AI Analyzer
 
-Repositorio sugerido: `project-dashboard-analytics`
+- Projeto: [projects/document-ai-analyzer](projects/document-ai-analyzer)
+- Notebook: [document-ai-demo.ipynb](projects/document-ai-analyzer/notebooks/document-ai-demo.ipynb)
+- Dados: [documentos_exemplo.csv](projects/document-ai-analyzer/data/documentos_exemplo.csv)
+- Repositorio independente sugerido: `document-ai-analyzer`
 
-### Automacao para Analise de Documentos
+### Urban Data Analysis
 
-Ferramenta para extracao, classificacao e analise automatizada de editais, contratos, relatorios e artigos usando OCR, NLP e LLMs.
+- Projeto: [projects/urban-data-analysis](projects/urban-data-analysis)
+- Notebook: [urban-data-demo.ipynb](projects/urban-data-analysis/notebooks/urban-data-demo.ipynb)
+- Dados: [indicadores_urbanos_exemplo.csv](projects/urban-data-analysis/data/indicadores_urbanos_exemplo.csv)
+- Repositorio independente sugerido: `urban-data-analysis`
 
-Repositorio sugerido: `document-ai-analyzer`
+### Research Project Manager
 
-### Analise de Dados Urbanos e Mobilidade
-
-Projeto de analise de dados publicos sobre mobilidade, planejamento territorial e indicadores urbanos.
-
-Repositorio sugerido: `urban-data-analysis`
+- Projeto: [projects/research-project-manager](projects/research-project-manager)
+- Notebook: [research-portfolio-demo.ipynb](projects/research-project-manager/notebooks/research-portfolio-demo.ipynb)
+- Dados: [editais_projetos_exemplo.csv](projects/research-project-manager/data/editais_projetos_exemplo.csv)
+- Repositorio independente sugerido: `research-project-manager`
 
 ## Tecnologias e Temas
 
@@ -80,7 +93,7 @@ Python | SQL | Power BI | React | TypeScript | APIs | IA | Machine Learning | OC
 
 ## Como Este Portfolio Esta Organizado
 
-Cada projeto deve ser documentado como estudo de caso, respondendo:
+Cada projeto esta documentado como estudo de caso, respondendo:
 
 - qual problema resolve;
 - para quem a solucao gera valor;
@@ -88,16 +101,25 @@ Cada projeto deve ser documentado como estudo de caso, respondendo:
 - como o projeto esta estruturado;
 - quais resultados, aprendizados ou proximos passos existem.
 
+Materiais de apoio:
+
+- [Modelo de README para projetos](docs/modelo-readme-projeto.md)
+- [Organizacao recomendada do GitHub](docs/organizacao-github.md)
+- [Roadmap do portfolio](docs/roadmap-portfolio.md)
+- [Showcase e demonstracoes](docs/showcase-demonstracoes.md)
+- [Links e publicacoes](docs/links-e-publicacoes.md)
+
 ## Roadmap do Portfolio
 
-- Publicar imagens, prints ou demonstracoes dos projetos principais.
-- Tornar publico pelo menos um repositorio demonstravel alem do `open-dpp`.
-- Criar projetos independentes para Value Tech, dashboards e automacao documental.
-- Adicionar notebooks ou exemplos sinteticos para analise de dados e IA.
-- Inserir link do LinkedIn e materiais publicados.
-- Fixar os seis repositorios mais estrategicos no perfil do GitHub.
+- Publicar imagens, prints ou demonstracoes dos projetos principais: iniciado com notebooks e dados sinteticos.
+- Tornar publico pelo menos um repositorio demonstravel alem do `open-dpp`: concluido com este hub publico.
+- Criar projetos independentes para Value Tech, dashboards e automacao documental: blueprints criados no hub; repositorios separados ainda dependem de criacao no GitHub.
+- Adicionar notebooks ou exemplos sinteticos para analise de dados e IA: concluido.
+- Inserir link do LinkedIn e materiais publicados: inventario criado; link oficial precisa ser confirmado.
+- Fixar os seis repositorios mais estrategicos no perfil do GitHub: pendente de acao manual no perfil.
 
 ## Contato
 
 Email: rodrigo.willemann@gmail.com  
-GitHub: [rodrigowillemann-rw](https://github.com/rodrigowillemann-rw)
+GitHub: [rodrigowillemann-rw](https://github.com/rodrigowillemann-rw)  
+LinkedIn: a confirmar
