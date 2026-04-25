@@ -89,17 +89,8 @@ Materiais de apoio:
 - [Showcase e demonstracoes](docs/showcase-demonstracoes.md)
 - [Links e publicacoes](docs/links-e-publicacoes.md)
 
-## Roadmap do Portfolio
-
-- Publicar imagens, prints ou demonstracoes dos projetos principais: iniciado com notebooks e dados sinteticos.
-- Tornar publico pelo menos um repositorio demonstravel alem do `open-dpp`: concluido.
-- Criar projetos independentes para Value Tech, dashboards e automacao documental: concluido.
-- Adicionar notebooks ou exemplos sinteticos para analise de dados e IA: concluido.
-- Inserir link do LinkedIn e materiais publicados: inventario criado; link oficial precisa ser confirmado.
-- Fixar os seis repositorios mais estrategicos no perfil do GitHub: pendente de acao manual no perfil.
-
 ## Contato
 
 Email: rodrigo.willemann@gmail.com  
 GitHub: [rodrigowillemann-rw](https://github.com/rodrigowillemann-rw)  
-LinkedIn: a confirmar
+LinkedIn: https://br.linkedin.com/in/rodrigo-willemann-6b603223
