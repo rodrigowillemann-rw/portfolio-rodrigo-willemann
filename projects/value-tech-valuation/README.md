@@ -42,7 +42,7 @@ src/        funcoes reutilizaveis em versoes futuras
 ## Resultados e Aprendizados Esperados
 
 - Matriz comparativa de tecnologias
-- Score de prioridade para portfólios de inovacao
+- Score de prioridade para portfolios de inovacao
 - Base para dashboards executivos
 - Aprendizado sobre criterios de valoracao e tomada de decisao em PD&I
 
