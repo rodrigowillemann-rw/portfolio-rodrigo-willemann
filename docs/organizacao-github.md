@@ -2,37 +2,27 @@
 
 ## Status Atual
 
-O repositorio `portfolio-rodrigo-willemann` funciona como hub publico do portfolio e ja contem blueprints completos para os projetos sugeridos.
+O repositorio `portfolio-rodrigo-willemann` funciona como hub publico do portfolio e os projetos sugeridos ja foram criados como repositorios publicos independentes.
 
-Projetos criados dentro do hub:
+Repositorios criados:
 
-- `projects/value-tech-valuation`
-- `projects/project-dashboard-analytics`
-- `projects/document-ai-analyzer`
-- `projects/urban-data-analysis`
-- `projects/research-project-manager`
+- [dpp-platform-ai](https://github.com/rodrigowillemann-rw/dpp-platform-ai)
+- [value-tech-valuation](https://github.com/rodrigowillemann-rw/value-tech-valuation)
+- [project-dashboard-analytics](https://github.com/rodrigowillemann-rw/project-dashboard-analytics)
+- [document-ai-analyzer](https://github.com/rodrigowillemann-rw/document-ai-analyzer)
+- [urban-data-analysis](https://github.com/rodrigowillemann-rw/urban-data-analysis)
+- [research-project-manager](https://github.com/rodrigowillemann-rw/research-project-manager)
 
-Cada projeto possui README em formato de estudo de caso, dados sinteticos e notebook demonstrativo.
+Cada projeto possui README em formato de estudo de caso, dados sinteticos, notebook demonstrativo, `requirements.txt` e topicos no GitHub.
 
 ## Repositorios para Fixar no Perfil
 
 1. `portfolio-rodrigo-willemann`
-2. `open-dpp`
-3. `spec-whisperer-forge` ou futuro `dpp-platform-ai`
+2. `dpp-platform-ai`
+3. `open-dpp`
 4. `value-tech-valuation`
 5. `project-dashboard-analytics`
 6. `document-ai-analyzer`
-
-## Padrao de Nomes
-
-Use nomes curtos, claros e orientados ao tema do projeto:
-
-- `dpp-platform-ai`
-- `value-tech-valuation`
-- `project-dashboard-analytics`
-- `document-ai-analyzer`
-- `urban-data-analysis`
-- `research-project-manager`
 
 ## Padrao Minimo de README
 
@@ -48,17 +38,15 @@ Todo repositorio deve ter:
 
 ## Acoes Recomendadas
 
-- Criar repositorios independentes para os projetos que hoje estao em `projects/`.
-- Copiar o respectivo README, dados e notebooks para cada repositorio independente.
-- Adicionar descricoes curtas nos repositorios pelo GitHub.
 - Fixar os seis projetos principais no perfil.
 - Criar imagens ou capturas de tela para cada projeto demonstravel.
-- Tornar publico apenas o que estiver pronto para representar bem o portfolio.
+- Adicionar link do LinkedIn oficial no README principal.
+- Evoluir os notebooks para dashboards ou pequenas aplicacoes Streamlit quando fizer sentido.
 - Manter repositorios experimentais privados ate terem README, contexto e proximo passo claro.
 
-## Pendencias Manuais
+## Como Fixar Repositorios no Perfil
 
-A interface atual usada para editar os repositorios permite criar e atualizar arquivos, mas nao expõe criacao de novos repositorios nem fixacao de repositorios no perfil. Essas duas etapas devem ser feitas pelo GitHub Web ou por GitHub CLI autenticado.
+No GitHub, acesse seu perfil, clique em `Customize your pins` e selecione os seis repositorios prioritarios.
 
 ## Narrativa Profissional
 
