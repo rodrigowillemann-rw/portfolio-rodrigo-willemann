@@ -21,71 +21,51 @@ Atualmente, meu foco esta em projetos que conectam tecnologia, dados, inteligenc
 
 ## Projetos em Destaque
 
-### 1. Plataforma de Adequacao ao Digital Product Passport
+### DPP Platform AI
 
-Aplicacao web para apoiar pequenas e medias empresas na organizacao de dados, documentos e evidencias necessarias para adequacao ao Digital Product Passport.
+Repositorio publico de plataforma e estudo de caso para adequacao ao Digital Product Passport com IA aplicada.
 
-- Repositorio: [spec-whisperer-forge](https://github.com/rodrigowillemann-rw/spec-whisperer-forge)
-- Status: em desenvolvimento
-- Tecnologias: React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Supabase, dashboards e mapas
+- Repositorio: [dpp-platform-ai](https://github.com/rodrigowillemann-rw/dpp-platform-ai)
+- Notebook: [dpp-readiness-demo.ipynb](https://github.com/rodrigowillemann-rw/dpp-platform-ai/blob/main/notebooks/dpp-readiness-demo.ipynb)
 - Valor demonstrado: produto digital aplicado a regulacao, sustentabilidade, rastreabilidade e competitividade industrial
 
-### 2. Open DPP
+### Open DPP
 
 Repositorio publico usado como referencia tecnica e base de estudo para gestao de Digital Product Passports.
 
 - Repositorio: [open-dpp](https://github.com/rodrigowillemann-rw/open-dpp)
 - Estudo de caso: [Digital Product Passport](https://github.com/rodrigowillemann-rw/open-dpp/blob/main/docs/case-study-pt-br.md)
-- Status: referencia publica e estudo tecnico
 - Valor demonstrado: leitura de arquitetura, documentacao tecnica e conexao entre regulacao, produto e tecnologia
-
-### 3. Emergent DPP
-
-Repositorio de experimentacao para provas de conceito, requisitos e prototipos ligados a DPP, IA documental e validacao de solucoes.
-
-- Repositorio: [emergent-dpp](https://github.com/rodrigowillemann-rw/emergent-dpp)
-- Status: laboratorio de ideias e prototipos
-- Tecnologias previstas: Python, OCR, LLMs, RAG, APIs e processamento de documentos
-- Valor demonstrado: capacidade de transformar desafios emergentes em hipoteses, experimentos e arquitetura de MVP
-
-## Novos Projetos Criados no Hub
-
-Os projetos abaixo foram estruturados como blueprints completos dentro deste repositorio publico. Cada um pode evoluir para um repositorio independente com o mesmo nome sugerido.
 
 ### Value Tech - Valorizacao de Tecnologias
 
-- Projeto: [projects/value-tech-valuation](projects/value-tech-valuation)
-- Notebook: [valuation-demo.ipynb](projects/value-tech-valuation/notebooks/valuation-demo.ipynb)
-- Dados: [tecnologias_exemplo.csv](projects/value-tech-valuation/data/tecnologias_exemplo.csv)
-- Repositorio independente sugerido: `value-tech-valuation`
+- Repositorio: [value-tech-valuation](https://github.com/rodrigowillemann-rw/value-tech-valuation)
+- Notebook: [valuation-demo.ipynb](https://github.com/rodrigowillemann-rw/value-tech-valuation/blob/main/notebooks/valuation-demo.ipynb)
+- Valor demonstrado: analise multicriterio para valoracao, priorizacao e decisao em PD&I
 
 ### Project Dashboard Analytics
 
-- Projeto: [projects/project-dashboard-analytics](projects/project-dashboard-analytics)
-- Notebook: [project-kpi-demo.ipynb](projects/project-dashboard-analytics/notebooks/project-kpi-demo.ipynb)
-- Dados: [projetos_exemplo.csv](projects/project-dashboard-analytics/data/projetos_exemplo.csv)
-- Repositorio independente sugerido: `project-dashboard-analytics`
+- Repositorio: [project-dashboard-analytics](https://github.com/rodrigowillemann-rw/project-dashboard-analytics)
+- Notebook: [project-kpi-demo.ipynb](https://github.com/rodrigowillemann-rw/project-dashboard-analytics/blob/main/notebooks/project-kpi-demo.ipynb)
+- Valor demonstrado: governanca de projetos, indicadores executivos, risco, custo e desempenho
 
 ### Document AI Analyzer
 
-- Projeto: [projects/document-ai-analyzer](projects/document-ai-analyzer)
-- Notebook: [document-ai-demo.ipynb](projects/document-ai-analyzer/notebooks/document-ai-demo.ipynb)
-- Dados: [documentos_exemplo.csv](projects/document-ai-analyzer/data/documentos_exemplo.csv)
-- Repositorio independente sugerido: `document-ai-analyzer`
+- Repositorio: [document-ai-analyzer](https://github.com/rodrigowillemann-rw/document-ai-analyzer)
+- Notebook: [document-ai-demo.ipynb](https://github.com/rodrigowillemann-rw/document-ai-analyzer/blob/main/notebooks/document-ai-demo.ipynb)
+- Valor demonstrado: automacao documental com IA, OCR, NLP, LLMs e triagem operacional
 
 ### Urban Data Analysis
 
-- Projeto: [projects/urban-data-analysis](projects/urban-data-analysis)
-- Notebook: [urban-data-demo.ipynb](projects/urban-data-analysis/notebooks/urban-data-demo.ipynb)
-- Dados: [indicadores_urbanos_exemplo.csv](projects/urban-data-analysis/data/indicadores_urbanos_exemplo.csv)
-- Repositorio independente sugerido: `urban-data-analysis`
+- Repositorio: [urban-data-analysis](https://github.com/rodrigowillemann-rw/urban-data-analysis)
+- Notebook: [urban-data-demo.ipynb](https://github.com/rodrigowillemann-rw/urban-data-analysis/blob/main/notebooks/urban-data-demo.ipynb)
+- Valor demonstrado: analise territorial, indicadores urbanos e apoio a politicas publicas
 
 ### Research Project Manager
 
-- Projeto: [projects/research-project-manager](projects/research-project-manager)
-- Notebook: [research-portfolio-demo.ipynb](projects/research-project-manager/notebooks/research-portfolio-demo.ipynb)
-- Dados: [editais_projetos_exemplo.csv](projects/research-project-manager/data/editais_projetos_exemplo.csv)
-- Repositorio independente sugerido: `research-project-manager`
+- Repositorio: [research-project-manager](https://github.com/rodrigowillemann-rw/research-project-manager)
+- Notebook: [research-portfolio-demo.ipynb](https://github.com/rodrigowillemann-rw/research-project-manager/blob/main/notebooks/research-portfolio-demo.ipynb)
+- Valor demonstrado: gestao de pesquisa, inovacao, editais, indicadores e prestacao de contas
 
 ## Tecnologias e Temas
 
@@ -112,8 +92,8 @@ Materiais de apoio:
 ## Roadmap do Portfolio
 
 - Publicar imagens, prints ou demonstracoes dos projetos principais: iniciado com notebooks e dados sinteticos.
-- Tornar publico pelo menos um repositorio demonstravel alem do `open-dpp`: concluido com este hub publico.
-- Criar projetos independentes para Value Tech, dashboards e automacao documental: blueprints criados no hub; repositorios separados ainda dependem de criacao no GitHub.
+- Tornar publico pelo menos um repositorio demonstravel alem do `open-dpp`: concluido.
+- Criar projetos independentes para Value Tech, dashboards e automacao documental: concluido.
 - Adicionar notebooks ou exemplos sinteticos para analise de dados e IA: concluido.
 - Inserir link do LinkedIn e materiais publicados: inventario criado; link oficial precisa ser confirmado.
 - Fixar os seis repositorios mais estrategicos no perfil do GitHub: pendente de acao manual no perfil.
