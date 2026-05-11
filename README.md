@@ -71,21 +71,20 @@ Repositorio publico usado como referencia tecnica e base de estudo para gestao d
 
 Python | SQL | Power BI | React | TypeScript | APIs | IA | Machine Learning | OCR | RAG | Analise de Dados | Gestao de Projetos | Inovacao | Politicas Publicas
 
-## Como Este Portfolio Esta Organizado
+## Estrutura do Portfolio
 
-Cada projeto esta documentado como estudo de caso, respondendo:
+Cada projeto esta documentado como estudo de caso, com foco em:
 
 - qual problema resolve;
 - para quem a solucao gera valor;
 - quais tecnologias ou metodos foram usados;
 - como o projeto esta estruturado;
-- quais resultados, aprendizados ou proximos passos existem.
+- quais resultados ou aprendizados apresenta.
 
 Materiais de apoio:
 
 - [Modelo de README para projetos](docs/modelo-readme-projeto.md)
-- [Organizacao recomendada do GitHub](docs/organizacao-github.md)
-- [Roadmap do portfolio](docs/roadmap-portfolio.md)
+- [Inventario dos repositorios](docs/organizacao-github.md)
 - [Showcase e demonstracoes](docs/showcase-demonstracoes.md)
 - [Links e publicacoes](docs/links-e-publicacoes.md)
 

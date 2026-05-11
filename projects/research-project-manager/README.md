@@ -46,14 +46,6 @@ docs/       processos, entidades e modelo de dados
 - Base para relatorios automaticos
 - Aprendizado sobre governanca aplicada a PD&I
 
-## Proximos Passos
-
-- Modelar entidades principais: edital, projeto, parceiro, entrega e indicador.
-- Criar API minima para cadastro de projetos.
-- Adicionar relatorios automaticos.
-- Integrar painel de indicadores.
-- Transformar este blueprint em repositorio independente: `research-project-manager`.
-
 ## Autor
 
 Rodrigo Willemann  

@@ -52,12 +52,6 @@ python src/main.py
 
 Descreva evidencias, metricas, telas, demonstracoes, conclusoes ou aprendizados obtidos.
 
-## Roadmap
-
-- Proximo passo 1
-- Proximo passo 2
-- Proximo passo 3
-
 ## Autor
 
 Rodrigo Willemann  

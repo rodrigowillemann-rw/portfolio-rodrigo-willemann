@@ -2,23 +2,13 @@
 
 ## LinkedIn
 
-Link oficial a confirmar pelo autor antes de publicar no README principal.
-
-Observacao: ha perfis publicos com o nome Rodrigo Willemann, mas o portfolio deve apontar apenas para o perfil confirmado, para evitar associacao incorreta.
+https://br.linkedin.com/in/rodrigo-willemann-6b603223
 
 ## Publicacoes e Materiais Tecnicos
 
-- Gerenciamento de Projetos e Estrategias de Fomento a Inovacao (2025) - referencia citada no curriculo; link publico a inserir.
-- Publicacoes tecnicas nas areas de redes, programacao e arquitetura de sistemas - inventario a consolidar.
+- Gerenciamento de Projetos e Estrategias de Fomento a Inovacao (2025).
+- Publicacoes tecnicas nas areas de redes, programacao e arquitetura de sistemas.
 - Estudos de caso sobre Digital Product Passport - conteudo inicial publicado em `open-dpp/docs/case-study-pt-br.md`.
-
-## Materiais Recomendados para Adicionar
-
-- Link do LinkedIn oficial.
-- Curriculo em PDF.
-- Artigos publicados ou posts tecnicos.
-- Apresentacoes publicas, aulas, palestras ou workshops.
-- Links para dashboards, demonstracoes ou videos curtos dos projetos.
 
 ## Padrao de Registro
 

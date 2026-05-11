@@ -47,14 +47,6 @@ maps/       camadas geograficas futuras
 - Identificacao de regioes prioritarias
 - Apoio a politicas publicas e projetos de impacto urbano
 
-## Proximos Passos
-
-- Substituir dados sinteticos por bases publicas.
-- Criar visualizacoes georreferenciadas.
-- Adicionar indicadores de mobilidade e clima.
-- Publicar estudo de caso com mapa ou dashboard.
-- Transformar este blueprint em repositorio independente: `urban-data-analysis`.
-
 ## Autor
 
 Rodrigo Willemann  
