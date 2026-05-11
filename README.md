@@ -81,6 +81,8 @@ Cada projeto esta documentado como estudo de caso, com foco em:
 - como o projeto esta estruturado;
 - quais resultados ou aprendizados apresenta.
 
+Este repositorio funciona como indice central do portfolio. O codigo, os dados sinteticos, os notebooks e a documentacao detalhada ficam nos repositorios independentes listados acima.
+
 Materiais de apoio:
 
 - [Modelo de README para projetos](docs/modelo-readme-projeto.md)

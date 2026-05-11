@@ -1,6 +1,6 @@
 # Inventario dos Repositorios
 
-O repositorio `portfolio-rodrigo-willemann` funciona como hub publico do portfolio. Os projetos principais tambem estao publicados em repositorios independentes.
+O repositorio `portfolio-rodrigo-willemann` funciona como hub publico do portfolio. Os projetos principais estao publicados em repositorios independentes, que concentram codigo, dados sinteticos, notebooks e documentacao tecnica.
 
 Repositorios criados:
 
